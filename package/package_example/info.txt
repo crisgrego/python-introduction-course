@@ -1,0 +1,4 @@
+A package is like a folder with all the modules we
+want.
+There must be a file called "__init__.py" inside
+the folder to become a package.
